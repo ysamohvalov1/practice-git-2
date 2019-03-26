@@ -1,1 +1,2 @@
 testovie izmenenyatestovie izmenenyaLine 1
+Line 2
